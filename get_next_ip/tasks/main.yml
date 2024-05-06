@@ -22,4 +22,4 @@
     msg: "{{ addresses }}"
 
 - set_fact:
-    ipaddr: "{{ addresses[0] }}"
+    ipaddress: "{{ addresses[0] }}"
