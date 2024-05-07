@@ -1,12 +1,6 @@
 ---
 namespace: tychart
 name: my_collection
-version: '1.0.0'  # Update this with your collection's version
-readme: README.md  # If you have a README file, include it here
-authors:
-  - Your Name <your.email@example.com>  # Update with your name and email
-description: A short description of your collection  # Update this with a description of your collection
-license: MIT  # Update this with the license your collection is distributed under
 #roles:
 #  - debugy
 #  - get_next_ip
