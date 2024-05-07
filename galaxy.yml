@@ -2,3 +2,6 @@
 namespace: tychart
 name: my_collection
 repository: https://github.com/tychart/test-roles.git
+roles:
+  - debugy
+  - get_next_ip
