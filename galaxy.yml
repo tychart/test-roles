@@ -1,4 +1,4 @@
 ---
 namespace: tychart
 name: my_collection
-repository: https://github.com/ansible-collections/vmware.vmware_rest.git
+repository: https://github.com/tychart/test-roles.git
